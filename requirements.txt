@@ -1,0 +1,7 @@
+# Erforderliche Python-Pakete für das 'Schrank-Inventar'-Projekt
+
+Flask
+numpy
+opencv-python
+pyzbar
+qrcode
