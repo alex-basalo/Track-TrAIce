@@ -1,0 +1,32 @@
+# --- Python Basics ---
+__pycache__/
+*.py[cod]
+*$py.class
+
+# --- Virtuelle Umgebungen (venv) ---
+# Es ist wichtig, alle gängigen Namen abzudecken
+venv/
+.venv/
+env/
+.env/
+ENV/
+
+# --- Verteilungs- / Build-Dateien ---
+dist/
+build/
+*.egg-info/
+
+# --- IDE Einstellungen (Persönliche Einstellungen nicht hochladen) ---
+.idea/
+.vscode/
+*.swp
+
+# --- Betriebssystem Dateien ---
+.DS_Store
+Thumbs.db
+
+# --- WICHTIG: Sicherheitsrelevante Dateien ---
+# Niemals Passwörter oder API-Keys hochladen!
+.env
+config.ini
+secrets.json
