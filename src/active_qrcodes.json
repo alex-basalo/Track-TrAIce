@@ -1,0 +1,16 @@
+[
+    {
+        "internal_id": 1,
+        "content": "http://127.0.0.1:5000/schrank/1",
+        "duration": "04:15",
+        "timestamp": "2026-01-19 12:35:53",
+        "status": "LIVE"
+    },
+    {
+        "internal_id": 3,
+        "content": "http://127.0.0.1:5000/schrank/3",
+        "duration": "02:39",
+        "timestamp": "2026-01-19 12:37:29",
+        "status": "LIVE"
+    }
+]
